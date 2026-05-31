@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="offchain/public/gpuvault_readme_pic.png" alt="GPUVault" width="800" />
-</p>
-
 # GPUVault: Institutional DePIN & Compute Settlement Layer
 
 GPUVault is a decentralized infrastructure protocol built on ADI Chain that enables institutions to monetize, trade, and settle real-world compute assets. It bridges the gap between idle enterprise hardware (RWA) and global demand through an intelligent, compliant execution layer.
